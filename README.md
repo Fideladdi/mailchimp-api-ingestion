@@ -19,12 +19,7 @@ A Python-based, **incremental API ingestion pipeline** that extracts contact dat
 - [Raw landing zone and completion marker](#raw-landing-zone-and-completion-marker)
 - [Repository layout](#repository-layout)
 - [Local setup](#local-setup)
-- [Running the pipeline](#running-the-pipeline)
-- [Validation and testing](#validation-and-testing)
-- [Security and data handling](#security-and-data-handling)
-- [Limitations and engineering considerations](#limitations-and-engineering-considerations)
-- [ELT roadmap](#elt-roadmap)
-- [Skills demonstrated](#skills-demonstrated)
+
 
 ## Project objectives
 
